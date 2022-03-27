@@ -1,253 +1,253 @@
-[INFO ] 2022-03-23 11:25:40.353 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //*[@id="index"]/div/main/section[1]/figure/div/div/div[1]/ul/li[1]/a]
-[DEBUG] 2022-03-23 11:25:40.360 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //*[@id="index"]/div/main/section[1]/figure/div/div/div[1]/ul/li[1]/a]
-[INFO ] 2022-03-23 11:25:40.392 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:25:40.477 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //*[@id="index"]/div/main/section[1]/figure/div/div/div[1]/ul/li[1]/a]clicked
-[INFO ] 2022-03-23 11:25:40.478 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:25:41.071 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:25:41.648 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:25:42.167 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //button[normalize-space()='Compare Quotes']]
-[DEBUG] 2022-03-23 11:25:42.175 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //button[normalize-space()='Compare Quotes']]
-[INFO ] 2022-03-23 11:25:42.194 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:25:54.030 [main] log4JDemo - Proxy element for: DefaultElementLocator 'By.xpath: //button[normalize-space()='Compare Quotes']'clicked
-[INFO ] 2022-03-23 11:25:54.030 [main] log4JDemo - pausing the system
-[DEBUG] 2022-03-23 11:25:54.554 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div/div[1]/h2/span[1]]
-[DEBUG] 2022-03-23 11:25:54.581 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div/div[1]/h2/span[1]]
-[INFO ] 2022-03-23 11:25:54.618 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:25:55.134 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div/div[2]/div/a[2]/span[1]]
-[DEBUG] 2022-03-23 11:25:55.141 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div/div[2]/div/a[2]/span[1]]
-[INFO ] 2022-03-23 11:25:55.159 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:05.288 [main] log4JDemo - Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[1]/div/div/div/div[2]/div/a[2]/span[1]'clicked
-[INFO ] 2022-03-23 11:26:05.288 [main] log4JDemo - pausing the system
-[DEBUG] 2022-03-23 11:26:05.806 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //a[normalize-space()='GOT IT']]
-[INFO ] 2022-03-23 11:26:05.851 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:06.369 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div/div[2]/div]
-[DEBUG] 2022-03-23 11:26:06.377 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div/div[2]/div]
-[INFO ] 2022-03-23 11:26:06.395 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:06.479 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div/div[2]/div]clicked
-[INFO ] 2022-03-23 11:26:06.479 [main] log4JDemo - pausing the system
-[DEBUG] 2022-03-23 11:26:06.997 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/section[1]/div/p[1]]
-[DEBUG] 2022-03-23 11:26:07.022 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/section[1]/div/p[1]]
-[INFO ] 2022-03-23 11:26:07.078 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //a[@id='nextInventoryTutorial']]
-[DEBUG] 2022-03-23 11:26:07.085 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //a[@id='nextInventoryTutorial']]
-[INFO ] 2022-03-23 11:26:07.104 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:07.175 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //a[@id='nextInventoryTutorial']]clicked
-[INFO ] 2022-03-23 11:26:07.175 [main] log4JDemo - pausing the system
-[DEBUG] 2022-03-23 11:26:07.691 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/section[2]/div/p[1]]
-[DEBUG] 2022-03-23 11:26:07.714 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/section[2]/div/p[1]]
-[INFO ] 2022-03-23 11:26:07.757 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> id: nextNextRoomTutorial]
-[DEBUG] 2022-03-23 11:26:07.763 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> id: nextNextRoomTutorial]
-[INFO ] 2022-03-23 11:26:07.779 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:07.847 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> id: nextNextRoomTutorial]clicked
-[INFO ] 2022-03-23 11:26:07.848 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:08.368 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //a[@id='closeTutorial2']]
-[DEBUG] 2022-03-23 11:26:08.375 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //a[@id='closeTutorial2']]
-[INFO ] 2022-03-23 11:26:08.395 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:08.463 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //a[@id='closeTutorial2']]clicked
-[INFO ] 2022-03-23 11:26:08.463 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:08.978 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
-[DEBUG] 2022-03-23 11:26:08.985 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
-[INFO ] 2022-03-23 11:26:09.002 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:09.075 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]clicked
-[INFO ] 2022-03-23 11:26:09.076 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:09.596 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[DEBUG] 2022-03-23 11:26:09.604 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:09.621 [main] log4JDemo - Waiting element to be Clickable
-[WARN ] 2022-03-23 11:26:10.734 [main] log4JDemo - Element is not clickable but I clicked with JS click
-[DEBUG] 2022-03-23 11:26:10.743 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:10.761 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:10.825 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:11.345 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
-[DEBUG] 2022-03-23 11:26:11.351 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
-[INFO ] 2022-03-23 11:26:11.368 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:11.450 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]clicked
-[INFO ] 2022-03-23 11:26:11.450 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:11.966 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='12']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[DEBUG] 2022-03-23 11:26:11.974 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='12']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:11.991 [main] log4JDemo - Waiting element to be Clickable
-[WARN ] 2022-03-23 11:26:13.098 [main] log4JDemo - Element is not clickable but I clicked with JS click
-[DEBUG] 2022-03-23 11:26:13.111 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='12']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:13.128 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:13.181 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:13.700 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //button[@class='saveButton btn btn-blue']]
-[DEBUG] 2022-03-23 11:26:13.707 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //button[@class='saveButton btn btn-blue']]
-[INFO ] 2022-03-23 11:26:13.736 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:13.928 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //button[@class='saveButton btn btn-blue']]clicked
-[INFO ] 2022-03-23 11:26:13.936 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
-[DEBUG] 2022-03-23 11:26:13.942 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
-[INFO ] 2022-03-23 11:26:13.956 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:14.017 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]clicked
-[INFO ] 2022-03-23 11:26:14.017 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:14.534 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[DEBUG] 2022-03-23 11:26:14.541 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:14.558 [main] log4JDemo - Waiting element to be Clickable
-[WARN ] 2022-03-23 11:26:15.659 [main] log4JDemo - Element is not clickable but I clicked with JS click
-[DEBUG] 2022-03-23 11:26:15.668 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:15.685 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:15.734 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:16.246 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
-[DEBUG] 2022-03-23 11:26:16.255 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
-[INFO ] 2022-03-23 11:26:16.271 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:16.338 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]clicked
-[INFO ] 2022-03-23 11:26:16.338 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:16.848 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[DEBUG] 2022-03-23 11:26:16.856 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:16.872 [main] log4JDemo - Waiting element to be Clickable
-[WARN ] 2022-03-23 11:26:17.973 [main] log4JDemo - Element is not clickable but I clicked with JS click
-[DEBUG] 2022-03-23 11:26:17.983 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:18.000 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:18.063 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:18.595 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='col-sm-9']]
-[DEBUG] 2022-03-23 11:26:18.603 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='col-sm-9']]
-[INFO ] 2022-03-23 11:26:18.619 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:18.776 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='col-sm-9']]clicked
-[INFO ] 2022-03-23 11:26:18.783 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
-[DEBUG] 2022-03-23 11:26:18.789 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
-[INFO ] 2022-03-23 11:26:18.803 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:18.859 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]clicked
-[INFO ] 2022-03-23 11:26:18.859 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:19.368 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[DEBUG] 2022-03-23 11:26:19.375 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:19.390 [main] log4JDemo - Waiting element to be Clickable
-[WARN ] 2022-03-23 11:26:20.492 [main] log4JDemo - Element is not clickable but I clicked with JS click
-[DEBUG] 2022-03-23 11:26:20.502 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:20.519 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:20.576 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:21.093 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
-[DEBUG] 2022-03-23 11:26:21.099 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
-[INFO ] 2022-03-23 11:26:21.118 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:21.181 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]clicked
-[INFO ] 2022-03-23 11:26:21.181 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:21.698 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[DEBUG] 2022-03-23 11:26:21.705 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:21.719 [main] log4JDemo - Waiting element to be Clickable
-[WARN ] 2022-03-23 11:26:22.823 [main] log4JDemo - Element is not clickable but I clicked with JS click
-[DEBUG] 2022-03-23 11:26:22.832 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:22.849 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:22.895 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:23.410 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='col-sm-9']]
-[DEBUG] 2022-03-23 11:26:23.417 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='col-sm-9']]
-[INFO ] 2022-03-23 11:26:23.432 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:23.587 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='col-sm-9']]clicked
-[INFO ] 2022-03-23 11:26:23.595 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
-[DEBUG] 2022-03-23 11:26:23.600 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
-[INFO ] 2022-03-23 11:26:23.615 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:23.676 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]clicked
-[INFO ] 2022-03-23 11:26:23.676 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:24.191 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[DEBUG] 2022-03-23 11:26:24.198 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:24.213 [main] log4JDemo - Waiting element to be Clickable
-[WARN ] 2022-03-23 11:26:25.309 [main] log4JDemo - Element is not clickable but I clicked with JS click
-[DEBUG] 2022-03-23 11:26:25.318 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:25.335 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:25.384 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:25.898 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
-[DEBUG] 2022-03-23 11:26:25.904 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
-[INFO ] 2022-03-23 11:26:25.919 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:25.992 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]clicked
-[INFO ] 2022-03-23 11:26:25.992 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:26.508 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[DEBUG] 2022-03-23 11:26:26.515 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:26.530 [main] log4JDemo - Waiting element to be Clickable
-[WARN ] 2022-03-23 11:26:27.623 [main] log4JDemo - Element is not clickable but I clicked with JS click
-[DEBUG] 2022-03-23 11:26:27.632 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
-[INFO ] 2022-03-23 11:26:27.647 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:27.716 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:28.232 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='col-sm-9']]
-[DEBUG] 2022-03-23 11:26:28.239 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='col-sm-9']]
-[INFO ] 2022-03-23 11:26:28.254 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:28.364 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //div[@class='col-sm-9']]clicked
-[INFO ] 2022-03-23 11:26:28.376 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //a[normalize-space()='Add and Continue']]
-[DEBUG] 2022-03-23 11:26:28.385 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //a[normalize-space()='Add and Continue']]
-[INFO ] 2022-03-23 11:26:28.405 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:28.521 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //a[normalize-space()='Add and Continue']]clicked
-[INFO ] 2022-03-23 11:26:28.523 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:31.608 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:32.137 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:32.467 [main] log4JDemo - pausing the system
-[DEBUG] 2022-03-23 11:26:32.780 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[1]/address-selection/div/address-instructions/div/div[2]/ul/li[1]/div/div/button[2]]
-[INFO ] 2022-03-23 11:26:32.796 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:33.088 [main] log4JDemo - pausing the system
-[DEBUG] 2022-03-23 11:26:33.603 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: //address-selection[@class='pickUpFrom pickupAffix']//li[2]//div[1]//div[1]//button[2]]
-[INFO ] 2022-03-23 11:26:33.619 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:33.797 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:34.315 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[3]/div[1]/div[1]/label[1]]
-[DEBUG] 2022-03-23 11:26:34.321 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[3]/div[1]/div[1]/label[1]]
-[INFO ] 2022-03-23 11:26:34.337 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:34.404 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[3]/div[1]/div[1]/label[1]]clicked
-[INFO ] 2022-03-23 11:26:34.405 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:34.918 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[4]/div[1]/div[1]/label[1]]
-[DEBUG] 2022-03-23 11:26:34.923 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[4]/div[1]/div[1]/label[1]]
-[INFO ] 2022-03-23 11:26:34.937 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:35.006 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[4]/div[1]/div[1]/label[1]]clicked
-[INFO ] 2022-03-23 11:26:35.006 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:35.583 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:36.102 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[9]/div[1]/button[1]]
-[DEBUG] 2022-03-23 11:26:36.108 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[9]/div[1]/button[1]]
-[INFO ] 2022-03-23 11:26:36.123 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:36.197 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[9]/div[1]/button[1]]clicked
-[INFO ] 2022-03-23 11:26:36.198 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:36.803 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:37.333 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:37.658 [main] log4JDemo - pausing the system
-[DEBUG] 2022-03-23 11:26:37.984 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[1]/div/div/button[2]]
-[INFO ] 2022-03-23 11:26:38.003 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:38.393 [main] log4JDemo - pausing the system
-[DEBUG] 2022-03-23 11:26:38.609 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[2]/div/div/button[2]]
-[INFO ] 2022-03-23 11:26:38.624 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:38.736 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:38.955 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[3]/div/div/label]
-[DEBUG] 2022-03-23 11:26:38.961 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[3]/div/div/label]
-[INFO ] 2022-03-23 11:26:38.976 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:39.044 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[3]/div/div/label]clicked
-[INFO ] 2022-03-23 11:26:39.044 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:39.256 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[4]/div/div/label]
-[DEBUG] 2022-03-23 11:26:39.262 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[4]/div/div/label]
-[INFO ] 2022-03-23 11:26:39.277 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:39.342 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[4]/div/div/label]clicked
-[INFO ] 2022-03-23 11:26:39.342 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:39.623 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:39.838 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[9]/div/button]
-[DEBUG] 2022-03-23 11:26:39.845 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[9]/div/button]
-[INFO ] 2022-03-23 11:26:39.860 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:39.954 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[9]/div/button]clicked
-[INFO ] 2022-03-23 11:26:39.955 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:40.170 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/date-picker[1]/div[1]/p[1]/input[1]]
-[DEBUG] 2022-03-23 11:26:40.179 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/date-picker[1]/div[1]/p[1]/input[1]]
-[INFO ] 2022-03-23 11:26:40.199 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:40.335 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/date-picker[1]/div[1]/p[1]/input[1]]clicked
-[INFO ] 2022-03-23 11:26:40.335 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:40.556 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[1]/date-picker/div/p/div/ul/li/div/table/thead/tr[1]/th[2]/button]
-[DEBUG] 2022-03-23 11:26:40.562 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[1]/date-picker/div/p/div/ul/li/div/table/thead/tr[1]/th[2]/button]
-[INFO ] 2022-03-23 11:26:40.576 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:40.650 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[1]/date-picker/div/p/div/ul/li/div/table/thead/tr[1]/th[2]/button]clicked
-[INFO ] 2022-03-23 11:26:40.651 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:40.872 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/date-picker[1]/div[1]/p[1]/div[1]/ul[1]/li[1]/div[1]/table[1]/tbody[1]/tr[4]/td[3]/button[1]/span[1]]
-[DEBUG] 2022-03-23 11:26:40.878 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/date-picker[1]/div[1]/p[1]/div[1]/ul[1]/li[1]/div[1]/table[1]/tbody[1]/tr[4]/td[3]/button[1]/span[1]]
-[INFO ] 2022-03-23 11:26:40.891 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:40.979 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/date-picker[1]/div[1]/p[1]/div[1]/ul[1]/li[1]/div[1]/table[1]/tbody[1]/tr[4]/td[3]/button[1]/span[1]]clicked
-[INFO ] 2022-03-23 11:26:40.979 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:41.194 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[1]/date-picker/div/p/div/ul/li/div/table/tbody/tr[2]/td[7]/button]
-[DEBUG] 2022-03-23 11:26:41.200 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[1]/date-picker/div/p/div/ul/li/div/table/tbody/tr[2]/td[7]/button]
-[INFO ] 2022-03-23 11:26:41.215 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:51.346 [main] log4JDemo - Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[1]/date-picker/div/p/div/ul/li/div/table/tbody/tr[2]/td[7]/button'clicked
-[INFO ] 2022-03-23 11:26:51.346 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:51.988 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[5]/h2/button]
-[DEBUG] 2022-03-23 11:26:51.994 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[5]/h2/button]
-[INFO ] 2022-03-23 11:26:52.010 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:52.080 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[5]/h2/button]clicked
-[INFO ] 2022-03-23 11:26:52.081 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:52.303 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[3]/ul/li[1]]
-[DEBUG] 2022-03-23 11:26:52.309 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[3]/ul/li[1]]
-[INFO ] 2022-03-23 11:26:52.324 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:26:52.394 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[3]/ul/li[1]]clicked
-[INFO ] 2022-03-23 11:26:52.394 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:26:52.605 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[2]/button]
-[DEBUG] 2022-03-23 11:26:52.612 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[2]/button]
-[INFO ] 2022-03-23 11:26:52.625 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:27:02.747 [main] log4JDemo - Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[2]/button'clicked
-[INFO ] 2022-03-23 11:27:02.747 [main] log4JDemo - pausing the system
-[INFO ] 2022-03-23 11:27:02.963 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div/div/div/div/div/a[1]]
-[DEBUG] 2022-03-23 11:27:02.969 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div/div/div/div/div/a[1]]
-[INFO ] 2022-03-23 11:27:02.984 [main] log4JDemo - Waiting element to be Clickable
-[INFO ] 2022-03-23 11:27:03.068 [main] log4JDemo - [[ChromeDriver: chrome on MAC (700d06188437209b445a4b41dd00b587)] -> xpath: /html/body/div[1]/div/div/div/div/div/div/div/a[1]]clicked
-[INFO ] 2022-03-23 11:27:03.068 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:29:33.735 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //*[@id="index"]/div/main/section[1]/figure/div/div/div[1]/ul/li[1]/a]
+[DEBUG] 2022-03-27 16:29:33.743 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //*[@id="index"]/div/main/section[1]/figure/div/div/div[1]/ul/li[1]/a]
+[INFO ] 2022-03-27 16:29:33.781 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:29:33.871 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //*[@id="index"]/div/main/section[1]/figure/div/div/div[1]/ul/li[1]/a]clicked
+[INFO ] 2022-03-27 16:29:33.871 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:29:34.473 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:29:35.050 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:29:35.574 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //button[normalize-space()='Compare Quotes']]
+[DEBUG] 2022-03-27 16:29:35.582 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //button[normalize-space()='Compare Quotes']]
+[INFO ] 2022-03-27 16:29:35.602 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:29:47.326 [main] log4JDemo - Proxy element for: DefaultElementLocator 'By.xpath: //button[normalize-space()='Compare Quotes']'clicked
+[INFO ] 2022-03-27 16:29:47.326 [main] log4JDemo - pausing the system
+[DEBUG] 2022-03-27 16:29:47.846 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div/div[1]/h2/span[1]]
+[DEBUG] 2022-03-27 16:29:47.874 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div/div[1]/h2/span[1]]
+[INFO ] 2022-03-27 16:29:47.917 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:29:48.437 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div/div[2]/div/a[2]/span[1]]
+[DEBUG] 2022-03-27 16:29:48.444 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div/div[2]/div/a[2]/span[1]]
+[INFO ] 2022-03-27 16:29:48.462 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:29:58.585 [main] log4JDemo - Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[1]/div/div/div/div[2]/div/a[2]/span[1]'clicked
+[INFO ] 2022-03-27 16:29:58.585 [main] log4JDemo - pausing the system
+[DEBUG] 2022-03-27 16:29:59.104 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //a[normalize-space()='GOT IT']]
+[INFO ] 2022-03-27 16:29:59.143 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:29:59.663 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div/div[2]/div]
+[DEBUG] 2022-03-27 16:29:59.671 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div/div[2]/div]
+[INFO ] 2022-03-27 16:29:59.689 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:29:59.776 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div/div[2]/div]clicked
+[INFO ] 2022-03-27 16:29:59.776 [main] log4JDemo - pausing the system
+[DEBUG] 2022-03-27 16:30:00.295 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/section[1]/div/p[1]]
+[DEBUG] 2022-03-27 16:30:00.322 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/section[1]/div/p[1]]
+[INFO ] 2022-03-27 16:30:00.380 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //a[@id='nextInventoryTutorial']]
+[DEBUG] 2022-03-27 16:30:00.387 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //a[@id='nextInventoryTutorial']]
+[INFO ] 2022-03-27 16:30:00.406 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:00.483 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //a[@id='nextInventoryTutorial']]clicked
+[INFO ] 2022-03-27 16:30:00.484 [main] log4JDemo - pausing the system
+[DEBUG] 2022-03-27 16:30:01.004 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/section[2]/div/p[1]]
+[DEBUG] 2022-03-27 16:30:01.029 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/section[2]/div/p[1]]
+[INFO ] 2022-03-27 16:30:01.074 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> id: nextNextRoomTutorial]
+[DEBUG] 2022-03-27 16:30:01.081 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> id: nextNextRoomTutorial]
+[INFO ] 2022-03-27 16:30:01.099 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:01.184 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> id: nextNextRoomTutorial]clicked
+[INFO ] 2022-03-27 16:30:01.184 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:01.704 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //a[@id='closeTutorial2']]
+[DEBUG] 2022-03-27 16:30:01.712 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //a[@id='closeTutorial2']]
+[INFO ] 2022-03-27 16:30:01.729 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:01.799 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //a[@id='closeTutorial2']]clicked
+[INFO ] 2022-03-27 16:30:01.799 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:02.316 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
+[DEBUG] 2022-03-27 16:30:02.324 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
+[INFO ] 2022-03-27 16:30:02.341 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:02.417 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]clicked
+[INFO ] 2022-03-27 16:30:02.417 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:02.937 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[DEBUG] 2022-03-27 16:30:02.945 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:02.963 [main] log4JDemo - Waiting element to be Clickable
+[WARN ] 2022-03-27 16:30:04.076 [main] log4JDemo - Element is not clickable but I clicked with JS click
+[DEBUG] 2022-03-27 16:30:04.086 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:04.103 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:04.168 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:04.686 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
+[DEBUG] 2022-03-27 16:30:04.692 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
+[INFO ] 2022-03-27 16:30:04.710 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:04.787 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]clicked
+[INFO ] 2022-03-27 16:30:04.788 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:05.308 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='12']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[DEBUG] 2022-03-27 16:30:05.316 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='12']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:05.333 [main] log4JDemo - Waiting element to be Clickable
+[WARN ] 2022-03-27 16:30:06.445 [main] log4JDemo - Element is not clickable but I clicked with JS click
+[DEBUG] 2022-03-27 16:30:06.454 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='12']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:06.472 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:06.524 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:07.055 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //button[@class='saveButton btn btn-blue']]
+[DEBUG] 2022-03-27 16:30:07.063 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //button[@class='saveButton btn btn-blue']]
+[INFO ] 2022-03-27 16:30:07.081 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:07.281 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //button[@class='saveButton btn btn-blue']]clicked
+[INFO ] 2022-03-27 16:30:07.288 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
+[DEBUG] 2022-03-27 16:30:07.294 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
+[INFO ] 2022-03-27 16:30:07.309 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:07.371 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]clicked
+[INFO ] 2022-03-27 16:30:07.372 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:07.892 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[DEBUG] 2022-03-27 16:30:07.899 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:07.915 [main] log4JDemo - Waiting element to be Clickable
+[WARN ] 2022-03-27 16:30:09.018 [main] log4JDemo - Element is not clickable but I clicked with JS click
+[DEBUG] 2022-03-27 16:30:09.028 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:09.045 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:09.093 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:09.606 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
+[DEBUG] 2022-03-27 16:30:09.624 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
+[INFO ] 2022-03-27 16:30:09.642 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:09.708 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]clicked
+[INFO ] 2022-03-27 16:30:09.708 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:10.224 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[DEBUG] 2022-03-27 16:30:10.231 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:10.246 [main] log4JDemo - Waiting element to be Clickable
+[WARN ] 2022-03-27 16:30:11.347 [main] log4JDemo - Element is not clickable but I clicked with JS click
+[DEBUG] 2022-03-27 16:30:11.356 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:11.374 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:11.436 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:11.965 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='col-sm-9']]
+[DEBUG] 2022-03-27 16:30:11.973 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='col-sm-9']]
+[INFO ] 2022-03-27 16:30:11.989 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:12.151 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='col-sm-9']]clicked
+[INFO ] 2022-03-27 16:30:12.159 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
+[DEBUG] 2022-03-27 16:30:12.166 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
+[INFO ] 2022-03-27 16:30:12.182 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:12.238 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]clicked
+[INFO ] 2022-03-27 16:30:12.238 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:12.755 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[DEBUG] 2022-03-27 16:30:12.762 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:12.778 [main] log4JDemo - Waiting element to be Clickable
+[WARN ] 2022-03-27 16:30:13.874 [main] log4JDemo - Element is not clickable but I clicked with JS click
+[DEBUG] 2022-03-27 16:30:13.884 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:13.907 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:13.965 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:14.478 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
+[DEBUG] 2022-03-27 16:30:14.485 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
+[INFO ] 2022-03-27 16:30:14.501 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:14.560 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]clicked
+[INFO ] 2022-03-27 16:30:14.560 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:15.075 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[DEBUG] 2022-03-27 16:30:15.082 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:15.097 [main] log4JDemo - Waiting element to be Clickable
+[WARN ] 2022-03-27 16:30:16.202 [main] log4JDemo - Element is not clickable but I clicked with JS click
+[DEBUG] 2022-03-27 16:30:16.211 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:16.228 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:16.275 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:16.789 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='col-sm-9']]
+[DEBUG] 2022-03-27 16:30:16.795 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='col-sm-9']]
+[INFO ] 2022-03-27 16:30:16.810 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:16.967 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='col-sm-9']]clicked
+[INFO ] 2022-03-27 16:30:16.974 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
+[DEBUG] 2022-03-27 16:30:16.980 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]
+[INFO ] 2022-03-27 16:30:16.995 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:17.054 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[1]/div/div/figure/img]clicked
+[INFO ] 2022-03-27 16:30:17.054 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:17.570 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[DEBUG] 2022-03-27 16:30:17.577 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:17.591 [main] log4JDemo - Waiting element to be Clickable
+[WARN ] 2022-03-27 16:30:18.687 [main] log4JDemo - Element is not clickable but I clicked with JS click
+[DEBUG] 2022-03-27 16:30:18.696 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='14']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:18.713 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:18.760 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:19.286 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
+[DEBUG] 2022-03-27 16:30:19.293 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]
+[INFO ] 2022-03-27 16:30:19.309 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:19.371 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div/div/div/div[1]/main/div/div[1]/section/div[2]/div/div[2]/div/div/figure/img]clicked
+[INFO ] 2022-03-27 16:30:19.371 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:19.887 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[DEBUG] 2022-03-27 16:30:19.894 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:19.909 [main] log4JDemo - Waiting element to be Clickable
+[WARN ] 2022-03-27 16:30:21.008 [main] log4JDemo - Element is not clickable but I clicked with JS click
+[DEBUG] 2022-03-27 16:30:21.018 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='13']//a[@class='btn btn-blue'][normalize-space()='Add to Inventory']]
+[INFO ] 2022-03-27 16:30:21.035 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:21.095 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:21.609 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='col-sm-9']]
+[DEBUG] 2022-03-27 16:30:21.617 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='col-sm-9']]
+[INFO ] 2022-03-27 16:30:21.632 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:21.739 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //div[@class='col-sm-9']]clicked
+[INFO ] 2022-03-27 16:30:21.750 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //a[normalize-space()='Add and Continue']]
+[DEBUG] 2022-03-27 16:30:21.759 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //a[normalize-space()='Add and Continue']]
+[INFO ] 2022-03-27 16:30:21.778 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:21.893 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //a[normalize-space()='Add and Continue']]clicked
+[INFO ] 2022-03-27 16:30:21.895 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:23.480 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:24.011 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:24.339 [main] log4JDemo - pausing the system
+[DEBUG] 2022-03-27 16:30:24.654 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[1]/address-selection/div/address-instructions/div/div[2]/ul/li[1]/div/div/button[2]]
+[INFO ] 2022-03-27 16:30:24.670 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:24.967 [main] log4JDemo - pausing the system
+[DEBUG] 2022-03-27 16:30:25.482 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: //address-selection[@class='pickUpFrom pickupAffix']//li[2]//div[1]//div[1]//button[2]]
+[INFO ] 2022-03-27 16:30:25.498 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:25.664 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:26.182 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[3]/div[1]/div[1]/label[1]]
+[DEBUG] 2022-03-27 16:30:26.188 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[3]/div[1]/div[1]/label[1]]
+[INFO ] 2022-03-27 16:30:26.204 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:26.288 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[3]/div[1]/div[1]/label[1]]clicked
+[INFO ] 2022-03-27 16:30:26.289 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:26.808 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[4]/div[1]/div[1]/label[1]]
+[DEBUG] 2022-03-27 16:30:26.813 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[4]/div[1]/div[1]/label[1]]
+[INFO ] 2022-03-27 16:30:26.827 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:26.896 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[4]/div[1]/div[1]/label[1]]clicked
+[INFO ] 2022-03-27 16:30:26.896 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:27.476 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:27.997 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[9]/div[1]/button[1]]
+[DEBUG] 2022-03-27 16:30:28.004 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[9]/div[1]/button[1]]
+[INFO ] 2022-03-27 16:30:28.022 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:28.097 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[1]/div[1]/address-selection[1]/div[1]/address-instructions[1]/div[1]/div[2]/ul[1]/li[9]/div[1]/button[1]]clicked
+[INFO ] 2022-03-27 16:30:28.097 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:28.709 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:29.236 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:29.568 [main] log4JDemo - pausing the system
+[DEBUG] 2022-03-27 16:30:29.884 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[1]/div/div/button[2]]
+[INFO ] 2022-03-27 16:30:29.900 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:30.303 [main] log4JDemo - pausing the system
+[DEBUG] 2022-03-27 16:30:30.518 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[2]/div/div/button[2]]
+[INFO ] 2022-03-27 16:30:30.534 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:30.647 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:30.862 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[3]/div/div/label]
+[DEBUG] 2022-03-27 16:30:30.868 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[3]/div/div/label]
+[INFO ] 2022-03-27 16:30:30.884 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:30.951 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[3]/div/div/label]clicked
+[INFO ] 2022-03-27 16:30:30.952 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:31.165 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[4]/div/div/label]
+[DEBUG] 2022-03-27 16:30:31.171 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[4]/div/div/label]
+[INFO ] 2022-03-27 16:30:31.186 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:31.253 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[4]/div/div/label]clicked
+[INFO ] 2022-03-27 16:30:31.253 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:31.535 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:31.748 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[9]/div/button]
+[DEBUG] 2022-03-27 16:30:31.755 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[9]/div/button]
+[INFO ] 2022-03-27 16:30:31.770 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:31.846 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[1]/div[2]/address-selection/div/address-instructions/div/div[2]/ul/li[9]/div/button]clicked
+[INFO ] 2022-03-27 16:30:31.847 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:32.065 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/date-picker[1]/div[1]/p[1]/input[1]]
+[DEBUG] 2022-03-27 16:30:32.075 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/date-picker[1]/div[1]/p[1]/input[1]]
+[INFO ] 2022-03-27 16:30:32.099 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:32.268 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/date-picker[1]/div[1]/p[1]/input[1]]clicked
+[INFO ] 2022-03-27 16:30:32.269 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:32.487 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[1]/date-picker/div/p/div/ul/li/div/table/thead/tr[1]/th[2]/button]
+[DEBUG] 2022-03-27 16:30:32.492 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[1]/date-picker/div/p/div/ul/li/div/table/thead/tr[1]/th[2]/button]
+[INFO ] 2022-03-27 16:30:32.507 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:32.582 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[1]/date-picker/div/p/div/ul/li/div/table/thead/tr[1]/th[2]/button]clicked
+[INFO ] 2022-03-27 16:30:32.582 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:32.798 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/date-picker[1]/div[1]/p[1]/div[1]/ul[1]/li[1]/div[1]/table[1]/tbody[1]/tr[4]/td[3]/button[1]/span[1]]
+[DEBUG] 2022-03-27 16:30:32.803 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/date-picker[1]/div[1]/p[1]/div[1]/ul[1]/li[1]/div[1]/table[1]/tbody[1]/tr[4]/td[3]/button[1]/span[1]]
+[INFO ] 2022-03-27 16:30:32.818 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:32.910 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/date-picker[1]/div[1]/p[1]/div[1]/ul[1]/li[1]/div[1]/table[1]/tbody[1]/tr[4]/td[3]/button[1]/span[1]]clicked
+[INFO ] 2022-03-27 16:30:32.910 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:33.122 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[1]/date-picker/div/p/div/ul/li/div/table/tbody/tr[2]/td[7]/button]
+[DEBUG] 2022-03-27 16:30:33.127 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[1]/date-picker/div/p/div/ul/li/div/table/tbody/tr[2]/td[7]/button]
+[INFO ] 2022-03-27 16:30:33.141 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:43.273 [main] log4JDemo - Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[1]/date-picker/div/p/div/ul/li/div/table/tbody/tr[2]/td[7]/button'clicked
+[INFO ] 2022-03-27 16:30:43.273 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:43.911 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[5]/h2/button]
+[DEBUG] 2022-03-27 16:30:43.917 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[5]/h2/button]
+[INFO ] 2022-03-27 16:30:43.933 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:43.999 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[2]/div[5]/h2/button]clicked
+[INFO ] 2022-03-27 16:30:43.999 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:44.213 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[3]/ul/li[1]]
+[DEBUG] 2022-03-27 16:30:44.218 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[3]/ul/li[1]]
+[INFO ] 2022-03-27 16:30:44.233 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:44.297 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[1]/div[3]/ul/li[1]]clicked
+[INFO ] 2022-03-27 16:30:44.297 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:44.513 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[2]/button]
+[DEBUG] 2022-03-27 16:30:44.519 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[2]/button]
+[INFO ] 2022-03-27 16:30:44.533 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:54.656 [main] log4JDemo - Proxy element for: DefaultElementLocator 'By.xpath: /html/body/div[1]/div/div/div[1]/main/div/section[2]/div[2]/button'clicked
+[INFO ] 2022-03-27 16:30:54.656 [main] log4JDemo - pausing the system
+[INFO ] 2022-03-27 16:30:54.869 [main] log4JDemo - trying to click [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div/div/div/div/div/a[1]]
+[DEBUG] 2022-03-27 16:30:54.875 [main] log4JDemo - Waiting element to be displayed [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div/div/div/div/div/a[1]]
+[INFO ] 2022-03-27 16:30:54.889 [main] log4JDemo - Waiting element to be Clickable
+[INFO ] 2022-03-27 16:30:54.969 [main] log4JDemo - [[ChromeDriver: chrome on MAC (8b2eb27415f31dfd2b7f432cd1225163)] -> xpath: /html/body/div[1]/div/div/div/div/div/div/div/a[1]]clicked
+[INFO ] 2022-03-27 16:30:54.969 [main] log4JDemo - pausing the system
