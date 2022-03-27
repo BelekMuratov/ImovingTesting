@@ -56,7 +56,7 @@ public class HomePageSteps {
     @Given("user clicks Moving Tab button")
     public void user_clicks_moving_tab_button() {
        Helper.click(homePage.movingTabButton);
-        Helper.pause(500);
+        Helper.pause(500); //
         
     }
     @When("user select {string} in What are you moving drop down")
